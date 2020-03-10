@@ -13,5 +13,5 @@ Explanation of Mean, Median, Mode, Skew and when to use what.
         Mean_Median.ipynb - Colab file
         mean_median.py - python file
         
-        Based on the file you execute, you have to set the path variable in ipynb or py to point the data files.
+        Based on the file you execute, you have to set the path variable in ipynb or py file to point the data files.
         
